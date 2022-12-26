@@ -1,3 +1,11 @@
+#AOSP
+.idea
+*.iml
+*.sw*
+gen/
+.vscode/
+*.code-workspace
+
 # Built application files
 *.apk
 *.aar
